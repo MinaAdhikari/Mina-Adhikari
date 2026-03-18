@@ -5,4 +5,4 @@
 
 lerning the basics of git and github
 
-<h1align="center>Myself Muna Adhikari. I study at MdC<h1>
+<h1 align="center">Myself Muna Adhikari. I study at MdC<h1>
